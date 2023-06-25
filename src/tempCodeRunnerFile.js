@@ -1,0 +1,1 @@
+ console.log(`esse é o array de preços- ${resultado1}`);
